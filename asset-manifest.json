@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kittyfriends/static/css/main.2661e296.css",
+    "main.js": "/kittyfriends/static/js/main.32854442.js",
+    "static/js/787.f0ff2991.chunk.js": "/kittyfriends/static/js/787.f0ff2991.chunk.js",
+    "static/media/Kitty face.woff": "/kittyfriends/static/media/Kitty face.5f06baf7579863c2a4ed.woff",
+    "index.html": "/kittyfriends/index.html",
+    "main.2661e296.css.map": "/kittyfriends/static/css/main.2661e296.css.map",
+    "main.32854442.js.map": "/kittyfriends/static/js/main.32854442.js.map",
+    "787.f0ff2991.chunk.js.map": "/kittyfriends/static/js/787.f0ff2991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2661e296.css",
+    "static/js/main.32854442.js"
+  ]
+}
